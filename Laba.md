@@ -49,4 +49,4 @@ Flowchart (блок-схема) – это визуальное представ
 
 **Задание 6**
 Создал пустую диаграмму:
-![Аннотация 2024-10-16 084312](https://github.com/user-attachments/assets/c088a9a2-ad17-49d7-b142-f604637b6953)
+![изображение](https://github.com/user-attachments/assets/dc9bd305-47e0-43d0-93fd-3a0222788123)
