@@ -156,7 +156,7 @@ Paint тоже распознаёт содержимое буфера обмен
 
 **Задание 13**
 
-
+![image](https://github.com/user-attachments/assets/e776c22c-888f-46d0-97bd-444ce85e0646)
 
 **Задание 14**
 
@@ -193,10 +193,3 @@ Paint тоже распознаёт содержимое буфера обмен
 ![image](https://github.com/user-attachments/assets/8a85f6ab-a66a-4ef0-bd76-b73dfa769af1)
 
 ![image](https://github.com/user-attachments/assets/9132bea4-16ce-4be1-9905-8c81cac141d4)
-
-
-
-
-
-
-354%22%20y%3D%22380%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E
