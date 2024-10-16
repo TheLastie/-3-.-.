@@ -73,6 +73,9 @@ Flowchart (блок-схема) – это визуальное представ
 
 **Задание 9**
 Сохранил диаграмму в 4-х форматах:
+
+
+
 ![1](https://github.com/user-attachments/assets/4a262d5a-50b6-43f3-872f-93352690867f)<?xml version="1.0" encoding="UTF-8"?>
 
 
