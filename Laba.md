@@ -343,5 +343,3 @@ Yandex Wiki — это бесплатный сервис для создания
 
 ![изображение](https://github.com/user-attachments/assets/8cedcbae-39a2-4b1f-9371-4dc5793984fc)
 
-
-**Задание 35**
