@@ -158,5 +158,45 @@ Paint тоже распознаёт содержимое буфера обмен
 
 
 
+**Задание 14**
 
-%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2019px%3B%26quot%3B%26gt%3B%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%B0%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22354%22%20y%3D%22290%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0.5%3BentryY%3D1%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D0.5%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22390%22%20y%3D%22420%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22414%22%20y%3D%22260%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0.5%3BentryY%3D1%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D0.5%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20target%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22414%22%20y%3D%22380%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22440%22%20y%3D%22370%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2019px%3B%26quot%3B%26gt%3B%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BarcSize%3D50%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22354%22%20y%3D%22200%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2019px%3B%26quot%3B%26gt%3B%D0%BA%D0%BE%D0%BD%D0%B5%D1%86%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BarcSize%3D50%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22354%22%20y%3D%22380%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E
+Файл задание 14.md
+
+**Задание 15**
+
+![image](https://github.com/user-attachments/assets/85158102-1607-4df6-9fbf-826fd2f32ca7)
+
+**Задание 16**
+
+    Base64 Base64 — это метод кодирования, который преобразовывает двоичные данные в текстовый формат, используя 64 символа ASCII. Это делает возможным безопасную передачу данных через текстовые каналы, такие как электронная почта или JSON, предотвращая их искажение.
+    IPython IPython — это интерактивная оболочка для языка программирования Python, предлагающая дополнительные функциональные возможности по сравнению со стандартной оболочкой, включая поддержку магических команд и улучшенные средства визуализации данных.
+    Jupyter Notebook Jupyter Notebook — это веб-приложение, позволяющее создавать и совместно использовать документы, содержащие живой код, уравнения, визуализации и текст. Оно поддерживает множество языков программирования, включая Python.
+    Pyplot Pyplot — это модуль библиотеки Matplotlib для Python, предоставляющий функции для создания графиков и визуализации данных. Он упрощает создание графиков благодаря своему интуитивно понятному интерфейсу.
+    Matplotlib Matplotlib — это библиотека для создания статических, анимированных и интерактивных визуализаций в Python. Она широко применяется в научных и аналитических приложениях.
+    UTF-8 UTF-8 — это кодировка символов, способная представить любой символ в Юникоде и являющаяся стандартом для веб-контента. Она обеспечивает совместимость с ASCII и поддерживает множество языков.
+    URL URL (Uniform Resource Locator) — это адрес интернет-ресурса. Он указывает местонахождение ресурса и способ его получения.
+    ASCII ASCII (American Standard Code for Information Interchange) — это кодировка символов, использующая 7 бит для представления текста на компьютерах. Она включает латинские буквы, цифры и специальные символы.
+    Параметры и аргументы функции Параметры функции — это переменные, определенные при объявлении функции и принимающие значения (аргументы) при вызове функции. Они позволяют передавать данные в функцию.
+    String String (строка) — это последовательность символов, используемая для представления текста в программировании.
+    Multiline String Multiline string (многострочная строка) — это строка текста, занимающая несколько строк кода. В Python многострочные строки могут быть созданы с использованием тройных кавычек (''' или """).
+
+
+
+**Задание 17**
+
+![image](https://github.com/user-attachments/assets/211e9d05-6fa7-47ab-b00e-e20447a9492e)
+
+**Задание 18**
+
+код программы:
+
+![image](https://github.com/user-attachments/assets/8a85f6ab-a66a-4ef0-bd76-b73dfa769af1)
+
+![image](https://github.com/user-attachments/assets/9132bea4-16ce-4be1-9905-8c81cac141d4)
+
+
+
+
+
+
+354%22%20y%3D%22380%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E
